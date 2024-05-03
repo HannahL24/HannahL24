@@ -15,7 +15,7 @@ I used to be a primary school teacher but my true passion lies in technology!
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,CSS,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,ps)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
