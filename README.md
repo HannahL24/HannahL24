@@ -10,7 +10,7 @@ I am a passionate Business Analyst, turning to coding, driven by a curiosity for
 - 📝 I'm currently learning how to code independently, with hopes to transition into software development. 
 - 🚶‍♀️ I love walking, reading, my cat Mitzy and watching Sheffield United FC.
 
-## - ⚡ Fun fact
+## ⚡ Fun fact
 I used to be a primary school teacher but my true passion lies in technology!
 
 
